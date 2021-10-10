@@ -2,18 +2,11 @@
 
 Weather Application on Flutter
 
-
-OpenWeather account:<br />
-username: cepevoy766@xeiex.com<br />
-password: cepevoy:cepevoy766<br />
-api: 7542f68142d6be5f7b70b36ba8bd799c<br />
-Kiev = Latitude and longitude coordinates are: 50.450001, 30.523333<br />
-
 ## Getting Started
 
 What was done:<br />
-    1. Create separate package for OpenWeatherMap api<br />
-    2. Create separate package repository for OpenWeatherMap (if we want to change api)<br />
+    1. Create separate package for OpenWeatherMap api + Unit test<br />
+    2. Create separate package repository for OpenWeatherMap (if we want to change api) + Unit test<br />
     3. Use MVVM architecture with bloc_pattern<br />
     4. Find user location with gps or use default coordinates (Kiev)<br />
     5. Translation (Ru and En)<br />
