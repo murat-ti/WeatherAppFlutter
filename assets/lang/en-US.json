@@ -1,0 +1,12 @@
+{
+  "loading": "Loading",
+  "weather": "Weather",
+  "city_search": "City search",
+  "get_location": "Get Location",
+  "select_city": "Please select city",
+  "something_wrong": "Something went wrong!",
+  "loading_weather": "Loading Weather",
+  "settings": "Settings",
+  "language": "Language",
+  "change_language": "Change language"
+}

@@ -1,0 +1,12 @@
+{
+  "loading": "Загрузка",
+  "weather": "Погода",
+  "city_search": "Поиск города",
+  "get_location": "Получить местоположение",
+  "select_city": "Пожалуйста, выберите город",
+  "something_wrong": "Что-то пошло не так!",
+  "loading_weather": "Загрузка погоды",
+  "settings": "Настройки",
+  "language": "Язык",
+  "change_language": "Переключить язык"
+}
